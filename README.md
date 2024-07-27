@@ -1,5 +1,5 @@
 # py_module
-key project for python programming:
+key points for python programming:
 Created a user friendly To do list app with GUI interface
 Task second is done with mathematical operations
 With GUI interface strong and unique password generator is created by some special character,number,aplhabets 
